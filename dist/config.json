@@ -9,7 +9,7 @@
   "types": [
     "all"
    ],
-  "includeFork": false,
+  "includeFork": true,
   "theme": "dark.css"
  }
 ]
