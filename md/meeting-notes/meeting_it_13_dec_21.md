@@ -1,0 +1,124 @@
+# Teffen IT Protokoll 16.Dec
+
+Content für die Internetseite
+Zuarbeitmensch der die Sachen zusammenträgt
+Was im Backend noch
+
+# Bestandaufnahme
+- was wird benutzt von den Ressorts ?
+- wo steht die Tagesordnung und anderes
+    - cloud - z.b. Nextcloud
+    - darüber dann zugang auf dropbox
+
+
+# Organisation dass alle Infos an die Leute kommen
+- irgendwas wo jeder einen Account hat --> Slack
+- Treffen auf Discord
+- regelmäßig reinschauen
+  
+- gemeinsamer Kalender
+- social Feed
+
+- wird ausgegangen, dass alle einen Slack Account haben
+  - login mit Slack
+
+# Kanban Board 
+- mit Nextcloud oder Github
+  
+# Vorschläge
+- wollen flexible Lösung, die anpassbar ist
+
+##  Nextcloud
+- OpenSource
+- wo hosten ?
+- was das kostet ?
+  - 200 Euro pro Jahr
+- wie abrechnen ?
+- läuft aktuell auf Raspberry
+- Server hohlen
+- Coda ist aufgebraucht
+
+## Redmine (Vito)
+- kostenlos
+- ist abgeschlossenes Tool
+- läuft über den Server
+- hat ein Ticketing Syste
+- OpenSource
+- kann man selber auf einen Server spielen
+
+## Microsoft Office 
+- teuer, hat aber ein Projektmanagementsystem- 10 euro pro Benuter 
+- gibts das für None-Profit Organisationen
+- Teams (wie Slack), ...ist eine komplette Office Suite
+- aber wenn wird vom Staat bekommen, dann kann man das gut integrieren
+- limitiert aber die Anzahl der Leute, die in die Cloud können
+
+## Pretix (Fusion)
+- Pretix - vlg.  Github Repo
+
+## Google Drive (aktuell)
+  - verschiedene Ordner
+  - Tools - Nextcloud
+
+# Rocket Chat
+- als alternative zu Slack
+- sind ähnlich, aber eine 
+  
+# Content Management System
+- Wordpress
+- Prismic, ist zu speziell
+
+# Server - brauchen Cash dafür
+- Digital Ocean
+  - Serverinstanzen hosten lassen (Scalable virtual Machines)
+  - Kosten eines V-Servers (10Euro im Monat)
+  - Finanzierbar vom Staat
+
+- Linux Verwaltungsarbeitsarbeit
+- Hosten, Datenbanken, Installieren, Konfigurieren
+- muss auf ner Domain erreichbar sein, muss sicher sein
+- TODO: **günstigen Hosting anbieter finden**
+  - vlt mal beim CCC anfragen
+- Linux Machine, die günstig ist
+- Sachen auf dem Raspberry laufen lassen (in 1-2 Wochen), von remote installieren
+  
+# Fianzierung
+- 3 Angebote werden gebraucht, nehmen das günstigste
+- Anfrage beim Kultusministerium für 2 Jahre
+
+# Website
+- Lea mach die Designs für die Website
+
+# Projekte
+- Active Directory, an dem sich alle Nutzer melden
+- intraaccount, das dann mit allen möglichen Services verbinden
+  - zum aufbau einer einheitlichen internen infrastruktur
+  - Nextcloud erstmal ausprobieren
+- Best Practice für die Verwaltung von Nutzern
+  - aktuelle - Datenbank und eine Nutzerschnittelle mit Password und Nutzername
+  - das dann in Nextcloud integrieren
+  - Nutzermanagement
+
+- Protokolle in Kanban Board überführen
+
+# Implementierungswünsche
+- Timeline Flashboard einrichten - Aganti, Gunsharks
+- Wünsche
+- Ticketing
+- Ort,
+  -  wo wir Dateien ablagen können
+  -  digitalisren
+  -  organisieren
+  -  visualisierne
+- Kommunikationstool: Slack
+- Codabase, die man auf Servern installieren können
+
+# Was wollen wir im nächsten Monat machen
+- Nextcould auf dem Raspberry aufsetzen
+- Vito und Pitschi schauen nach Finanizerungmitteln für folgende Lösungen
+  - Microsoft
+  - Serverfinazierung
+- einheitliche Plattform die alle nutzen können
+    - dann Kanban Board
+
+# Montag 19:00 Treffen
