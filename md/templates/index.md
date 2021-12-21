@@ -1,4 +1,4 @@
 # Table of Contents
 
-* [Template Protocol]()
-* [Template User Story]()
+* [Template Protocol](./template_protocol.md)
+* [Template User Story](./template_user_story.md)
