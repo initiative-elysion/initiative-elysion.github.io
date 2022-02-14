@@ -4,17 +4,17 @@
 		{
 			"alt" : "sick-simon.de",
 			"icon" : "fab fa-dev",
-			"link" : "https://github.com/kutyla-philipp"
+			"link" : "https://www.sick-simon.de"
 		},
 		{
 			"alt" : "intiative-elysion.de",
 			"icon" : "fab fa-legals",
-			"link" : "https://twitter.com/Kukielka_"
+			"link" : "https://www.intiative-elysion.de"
 		},
 		{
 			"alt" : "elysion-festival.de",
 			"icon" : "fab fa-festivus",
-			"link" : "https://hub.docker.com/u/kukielka/"
+			"link" : "https://www.elysion-festival.de/"
 		}
 	]
 }
