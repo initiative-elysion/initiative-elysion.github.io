@@ -2,19 +2,19 @@
 	"title" : "Simple Dash",
 	"items" : [
 		{
-			"alt" : "sick-simon.de",
+			"alt" : "dashy",
 			"icon" : "fab fa-dev",
 			"link" : "https://www.sick-simon.de"
 		},
 		{
-			"alt" : "intiative-elysion.de",
-			"icon" : "fab fa-legals",
-			"link" : "https://www.intiative-elysion.de"
+			"alt" : "monica",
+			"icon" : "fab fa-address-card",
+			"link" : "https://crm.intiative-elysion.de"
 		},
 		{
 			"alt" : "elysion-festival.de",
-			"icon" : "fab fa-festivus",
-			"link" : "https://www.elysion-festival.de/"
+			"icon" : "fab fa-briefcase",
+			"link" : "https://office.elysion-festival.de/"
 		}
 	]
 }
