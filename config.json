@@ -8,13 +8,18 @@
 		},
 		{
 			"alt" : "monica",
-			"icon" : "fa fa-address-book",
+			"icon" : "far fa-users",
 			"link" : "https://crm.intiative-elysion.de"
 		},
 		{
 			"alt" : "elysion-festival.de",
-			"icon" : "fa fa-people-carry",
+			"icon" : "far fa-building",
 			"link" : "https://office.elysion-festival.de/"
+		},
+		{
+			"alt" : "sanity",
+			"icon" : "fas fa-feather",
+			"link" : "https://studio.elysion-festival.de/"
 		}
 	]
 }
