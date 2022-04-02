@@ -8,12 +8,12 @@
 		},
 		{
 			"alt" : "monica",
-			"icon" : "fab fa-address-card",
+			"icon" : "fab fa-address-book",
 			"link" : "https://crm.intiative-elysion.de"
 		},
 		{
 			"alt" : "elysion-festival.de",
-			"icon" : "fab fa-briefcase",
+			"icon" : "fab fa-people-carry",
 			"link" : "https://office.elysion-festival.de/"
 		}
 	]
