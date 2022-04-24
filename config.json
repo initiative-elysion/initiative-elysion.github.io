@@ -3,17 +3,17 @@
 	"items" : [
 		{
 			"alt" : "dashy",
-			"icon" : "fa fa-dev",
+			"icon" : "fa fa-link",
 			"link" : "https://www.sick-simon.de"
 		},
 		{
 			"alt" : "monica",
-			"icon" : "fa fa-address-book",
+			"icon" : "fa fa-link",
 			"link" : "https://crm.intiative-elysion.de"
 		},
 		{
 			"alt" : "elysion-festival.de",
-			"icon" : "fa fa-computer",
+			"icon" : "fa fa-link",
 			"link" : "https://office.elysion-festival.de/"
 		},
 		{
