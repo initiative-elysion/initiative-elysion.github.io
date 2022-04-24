@@ -3,7 +3,7 @@
 	"items" : [
 		{
 			"alt" : "dashy",
-			"icon" : "fab fa-dev",
+			"icon" : "fa fa-dev",
 			"link" : "https://www.sick-simon.de"
 		},
 		{
@@ -15,6 +15,11 @@
 			"alt" : "elysion-festival.de",
 			"icon" : "fa fa-computer",
 			"link" : "https://office.elysion-festival.de/"
+		},
+		{
+			"alt" : "sanity",
+			"icon" : "fas fa-feather",
+			"link" : "https://studio.elysion-festival.de/"
 		}
 	]
 }
