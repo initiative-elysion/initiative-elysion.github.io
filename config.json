@@ -2,24 +2,29 @@
 	"title" : "Simple Dash",
 	"items" : [
 		{
-			"alt" : "dashy",
+			"alt" : "initiative-elysion.de",
 			"icon" : "fa fa-link",
-			"link" : "https://www.sick-simon.de"
-		},
-		{
-			"alt" : "monica",
-			"icon" : "fa fa-link",
-			"link" : "https://crm.intiative-elysion.de"
+			"link" : "https://www.initiative-elysion.de"
 		},
 		{
 			"alt" : "elysion-festival.de",
 			"icon" : "fa fa-link",
-			"link" : "https://office.elysion-festival.de/"
+			"link" : "https://www.elysion-festival.de/"
 		},
 		{
-			"alt" : "sanity",
+			"alt" : "CRM",
+			"icon" : "fa fa-link",
+			"link" : "https://crm.intiative-elysion.de"
+		},
+		{
+			"alt" : "CMS",
 			"icon" : "fas fa-feather",
 			"link" : "https://studio.elysion-festival.de/"
+		},
+		{
+			"alt" : "OFFICE",
+			"icon" : "fas fa-link",
+			"link" : "https://office.elysion-festival.de/"
 		}
 	]
 }
